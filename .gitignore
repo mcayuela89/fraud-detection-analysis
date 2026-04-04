@@ -1,0 +1,4 @@
+touch sql/schema.sql
+touch sql/queries.sql
+touch docs/insights.md
+touch .gitignore
