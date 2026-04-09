@@ -1,5 +1,7 @@
 # Fraud Detection Analysis
 
+End-to-end data analytics project using Python, PostgreSQL and Power BI.
+
 ## 📊 Dashboard Preview
 
 ![Dashboard](docs/dashboard.png)
